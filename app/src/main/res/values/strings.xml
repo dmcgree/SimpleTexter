@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimpleTexter</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Select a person to text:</string>
+    <string name="donald">Donald Duck</string>
+    <string name="minnie">Minnie Mouse</string>
+    <string name="mickey">Mickey Mouse</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="txtInstructions">Please select a message to send or type in your own message.</string>
+    <string name="sendText">Send text</string>
+    <string name="donaldDuck">Send message to Donald Duck</string>
+    <string name="mickeyMouse">Send message to Mickey Mouse</string>
+    <string name="minnieMouse">Send message to Minnie Mouse</string>
+    <string-array name="textMessages_array">
+        <item>None</item>
+        <item>On my way</item>
+        <item>In a meeting</item>
+        <item>Okay</item>
+        <item>What are you doing?</item>
+        <item>Be right back</item>
+    </string-array>
+</resources>
